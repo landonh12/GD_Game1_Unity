@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GameBoardSprite.unity
+  isLoaded: 1
+  isActive: 1
